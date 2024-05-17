@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Shahzaib-ur-Rehman/huddle-landing-page)
-- Live Site URL: [huddle-landing-page](https://your-live-site-url.com)
+- Live Site URL: [huddle-landing-page](https://huddle-landing-page-omega-nine.vercel.app/)
 
 ## My process
 
